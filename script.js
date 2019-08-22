@@ -2,4 +2,4 @@ var money, income, addExpenses, deposit, mission, period;
 
 alert('Любой текст');
 
-console.log(100500);
+console.log(100700);
