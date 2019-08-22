@@ -1,4 +1,4 @@
-var money, income, addExpenses, deposit, mission, period;
+let money, income, addExpenses, deposit, mission, period;
 
 alert('Любой текст');
 
